@@ -2,7 +2,7 @@
 
 ## Spelling correction corpus
 
-`principles_of_economics.txt` is the Project Gutenberg edition of *The Principles of Economics, with Applications to Practical Problems* by Frank A. Fetter (eBook #40077). The Project Gutenberg license is retained in the file.
+`principles_of_economics.zip` contains the Project Gutenberg edition of *The Principles of Economics, with Applications to Practical Problems* by Frank A. Fetter (eBook #40077). Extract it in this directory before running the spelling-correction notebook. The Project Gutenberg license is retained in the text file.
 
 ## Sentiment classification dataset
 

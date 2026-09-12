@@ -38,7 +38,7 @@ The sentiment notebook classifies women's clothing reviews as negative, neutral,
 ```text
 .
 ├── data/
-│   ├── principles_of_economics.txt
+│   ├── principles_of_economics.zip
 │   └── README.md
 ├── notebooks/
 │   ├── spelling_correction_system.ipynb
@@ -60,7 +60,7 @@ python -m spacy download en_core_web_sm
 jupyter notebook
 ```
 
-Open either notebook from the `notebooks/` directory. The sentiment notebook expects the CSV at `../data/womens_clothing_ecommerce_reviews.csv`.
+Extract `data/principles_of_economics.zip` before running the spelling-correction notebook. Then open either notebook from the `notebooks/` directory. The sentiment notebook expects the CSV at `../data/womens_clothing_ecommerce_reviews.csv`.
 
 Download the Women's E-Commerce Clothing Reviews dataset from Kaggle and save it as `data/womens_clothing_ecommerce_reviews.csv`. The raw CSV is not committed because the repository documents external dataset retrieval instead of redistributing it.
 
