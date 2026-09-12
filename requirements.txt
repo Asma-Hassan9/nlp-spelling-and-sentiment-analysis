@@ -1,0 +1,17 @@
+contractions
+emoji
+gradio
+jupyter
+joblib
+matplotlib
+numpy
+pandas
+requests
+scikit-learn
+scipy
+seaborn
+spacy
+textblob
+wordcloud
+xgboost
+
