@@ -64,9 +64,6 @@ Extract `data/principles_of_economics.zip` before running the spelling-correctio
 
 Download the Women's E-Commerce Clothing Reviews dataset from Kaggle and save it as `data/womens_clothing_ecommerce_reviews.csv`. The raw CSV is not committed because the repository documents external dataset retrieval instead of redistributing it.
 
-## Privacy and Reproducibility
-
-Notebook outputs and execution metadata were removed before publication. The public presentation omits university identifiers while retaining Asma's authorship of the individual presentation.
 
 ## Limitations
 
